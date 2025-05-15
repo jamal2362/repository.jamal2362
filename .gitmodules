@@ -37,7 +37,7 @@
 [submodule "addons/skin.arctic.horizon.2"]
 	path = addons/skin.arctic.horizon.2
 	url = https://github.com/jamal2362/skin.arctic.horizon.2.cpm.git
-	branch = omega
+	branch = main
 [submodule "addons/script.texturemaker"]
 	path = addons/script.texturemaker
 	url = https://github.com/jurialmunkey/script.texturemaker.git
