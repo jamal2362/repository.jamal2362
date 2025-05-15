@@ -2,9 +2,9 @@
 <addon id="repository.jamal2362" name="Jamal2362 Repository for CPM" version="1.0" provider-name="jamal2362">
     <extension point="xbmc.addon.repository" name="Jamal2362 Repository for CPM">
         <dir minversion="20.9.1">
-            <info compressed="false">https://raw.githubusercontent.com/jamal2362/repository.jamal2362/master/addons/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jamal2362/repository.jamal2362/master/addons/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jamal2362/repository.jamal2362/master/addons/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/jamal2362/repository.jamal2362/main/addons/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jamal2362/repository.jamal2362/main/addons/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jamal2362/repository.jamal2362/main/addons/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
