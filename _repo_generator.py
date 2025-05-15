@@ -193,9 +193,9 @@ class Generator:
                 if f.endswith(".zip"):
                     try:
                         os.remove(os.path.join(zip_folder, f))
-                        print(f"Alte ZIP-Datei gelöscht: {f}")
+                        print(f"Old ZIP file deleted: {f}")
                     except Exception as e:
-                        print(f"Fehler beim Löschen von {f}: {e}")
+                        print(f"Error when deleting {f}: {e}")
 
 
     def _copy_meta_files(self, addon_id, addon_folder):
