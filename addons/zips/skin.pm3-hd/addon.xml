@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.pm3-hd"
-  version="2.7.3"
-  name="PM3.HD"
-  provider-name="Jezz_X, Team XBMC, TigerbotHesh, qqbenq, Collapsed-TI">
+  version="2.7.3~cpm"
+  name="PM3.HD (CPM)"
+  provider-name="Jezz_X, TigerbotHesh, qqbenq, Collapsed-TI, jamal2362">
   <requires>
     <import addon="xbmc.gui" version="5.17.0"/>
   </requires>
