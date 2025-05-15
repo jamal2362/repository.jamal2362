@@ -258,23 +258,19 @@ class Generator:
                 id = addon_root.get('id')
                 version = addon_root.get('version')
 
-                updated = False
+                self._create_zip(addon, id, version)
+                self._copy_meta_files(addon, os.path.join(self.zips_path, id))
+
                 addon_entry = addons_root.find(addon_xpath.format(id))
                 if addon_entry is not None and addon_entry.get('version') != version:
                     index = addons_root.findall('addon').index(addon_entry)
                     addons_root.remove(addon_entry)
                     addons_root.insert(index, addon_root)
-                    updated = True
                     changed = True
                 elif addon_entry is None:
                     addons_root.append(addon_root)
-                    updated = True
                     changed = True
 
-                if updated:
-                    # Create the zip files
-                    self._create_zip(addon, id, version)
-                    self._copy_meta_files(addon, os.path.join(self.zips_path, id))
             except Exception as e:
                 print(
                     "Excluding {}: {}".format(
