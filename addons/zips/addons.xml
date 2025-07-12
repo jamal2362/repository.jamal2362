@@ -189,7 +189,7 @@
     <fanart>fanart.jpg</fanart>
   </assets>
 </extension>
-</addon><addon id="skin.aeon.nox.silvo" version="12.10.0.4" name="Aeon Nox: SiLVO (CPM)" provider-name="SiLVO, jamal2362">
+</addon><addon id="skin.aeon.nox.silvo" version="13.10.0.4" name="Aeon Nox: SiLVO (CPM)" provider-name="SiLVO, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.skinshortcuts" version="2.0.1" />
@@ -452,7 +452,7 @@
         <description lang="en_US">Arctic: Zephyr - Reloaded is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.</description>
         <description lang="fr">Arctic: Zephyr - Reloaded est basé sur le skin original Arctic: Zephyr, créé par jurialmunkey. Arctic se focalise sur le fait d'être simple, claire et minimaliste.</description>
     </extension>
-</addon><addon id="skin.confluence" version="11.5.1.2" name="Confluence (CPM)" provider-name="Jezz_X, Team Kodi, jamal2362">
+</addon><addon id="skin.confluence" version="12.5.1.2" name="Confluence (CPM)" provider-name="Jezz_X, Team Kodi, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
