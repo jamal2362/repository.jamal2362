@@ -73,3 +73,6 @@
 [submodule "addons/screensaver.matrix"]
 	path = addons/screensaver.matrix
 	url = https://github.com/jamal2362/screensaver.matrix.git
+[submodule "addons/plugin.video.gronkhtv"]
+	path = addons/plugin.video.gronkhtv
+	url = https://github.com/jamal2362/plugin.video.gronkhtv
