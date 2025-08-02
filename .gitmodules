@@ -81,3 +81,4 @@
 [submodule "addons/script.wikipedia"]
 	path = addons/script.wikipedia
 	url = https://github.com/jamal2362/script.wikipedia.git
+	branch = main
