@@ -78,3 +78,6 @@
 	path = addons/plugin.video.gronkhtv
 	url = https://github.com/jamal2362/plugin.video.gronkhtv
 	branch = main
+[submodule "addons/script.wikipedia"]
+	path = addons/script.wikipedia
+	url = https://github.com/jamal2362/script.wikipedia.git
