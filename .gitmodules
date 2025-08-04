@@ -85,3 +85,4 @@
 [submodule "addons/plugin.video.composite_for_plex"]
 	path = addons/plugin.video.composite_for_plex
 	url = https://github.com/jamal2362/plugin.video.composite_for_plex.git
+	branch = master
