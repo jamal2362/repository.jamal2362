@@ -304,7 +304,7 @@
     <fanart>fanart.jpg</fanart>
   </assets>
 </extension>
-</addon><addon id="script.wikipedia" version="2.0.8" name="Wikipedia" provider-name="jurialmunkey, jamal2362">
+</addon><addon id="script.wikipedia" version="3.0.8" name="Wikipedia" provider-name="jurialmunkey, jamal2362">
 <requires>
   <import addon="xbmc.python" version="3.0.0" />
   <import addon="script.module.beautifulsoup4" version="4.9.3" />
@@ -425,7 +425,7 @@
 		</assets>
 		<news>[I][COLOR FFFF9800]v10.0.4[/COLOR][/I][CR]- [CR][CR][B]All updates may contain various changes and/or improvements[/B][CR]For a more complete list visit:[CR][I][COLOR FFFF9800]https://github.com/MikeSiLVO/skin.aeon.nox.silvo/commits/master[/COLOR][/I]</news>
 	</extension>
-</addon><addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (CPM)" provider-name="jurialmunkey, jamal2362" version="57.2.11.3">
+</addon><addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (CPM)" provider-name="jurialmunkey, jamal2362" version="60.2.11.3">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinvariables" version="2.1.28" />
