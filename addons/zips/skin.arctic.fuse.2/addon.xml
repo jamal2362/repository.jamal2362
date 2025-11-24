@@ -1,4 +1,4 @@
-<addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (CPM)" provider-name="jurialmunkey, jamal2362" version="64.2.12.3">
+<addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (CPM)" provider-name="jurialmunkey, jamal2362" version="65.2.12.3">
 
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
