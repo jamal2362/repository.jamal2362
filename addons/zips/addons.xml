@@ -484,7 +484,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection (CPM)" provider-name="jurialmunkey, pkscout, heppen, jamal2362" version="16.1.1.0">
+</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection (CPM)" provider-name="jurialmunkey, pkscout, heppen, jamal2362" version="16.1.1.1">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" />
@@ -588,7 +588,7 @@
         <description lang="en_US">Arctic: Zephyr - Reloaded is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.</description>
         <description lang="fr">Arctic: Zephyr - Reloaded est basé sur le skin original Arctic: Zephyr, créé par jurialmunkey. Arctic se focalise sur le fait d'être simple, claire et minimaliste.</description>
     </extension>
-</addon><addon id="skin.confluence" version="15.5.1.3" name="Confluence (CPM)" provider-name="Jezz_X, Team Kodi, jamal2362">
+</addon><addon id="skin.confluence" version="16.5.1.3" name="Confluence (CPM)" provider-name="Jezz_X, Team Kodi, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
