@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.rapier" version="14.13.0.14" name="Rapier (CPM)" provider-name="Scarfa, Gade, jamal2362">
+<addon id="skin.rapier" version="15.13.0.14" name="Rapier (CPM)" provider-name="Scarfa, Gade, jamal2362">
   <requires>
     <import addon="xbmc.gui" version="5.17.0"/>
     <import addon="script.favourites" version="4.0.9"/>
