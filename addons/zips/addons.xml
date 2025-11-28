@@ -66,7 +66,7 @@
         <disclaimer lang="pl_PL">Composite NIE jest oficjalnym dodatkiem do programu Plex, nie jest wspierany ani zatwierdzany przez firmę Plex.</disclaimer>
         <disclaimer lang="vi_VN">Composite KHÔNG phải là một tiện ích chính thức của Plex và không được Plex hỗ trợ hoặc xác nhận.</disclaimer>
     </extension>
-</addon><addon id="plugin.video.gronkhtv" name="Gronkh.tv" version="1.3.0" provider-name="jamal2362">
+</addon><addon id="plugin.video.gronkhtv" name="Gronkh.tv" version="1.4.0" provider-name="jamal2362">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.6.1" />
@@ -88,7 +88,7 @@
             <icon>resources/icon.png</icon>
         </assets>
     </extension>
-</addon><addon id="plugin.video.themoviedb.helper" version="6.11.11" name="TMDb Helper" provider-name="jurialmunkey">
+</addon><addon id="plugin.video.themoviedb.helper" version="6.11.12" name="TMDb Helper" provider-name="jurialmunkey">
 <requires>
   <import addon="xbmc.python" version="3.0.1" />
   <import addon="script.module.requests" version="2.9.1" />
@@ -425,7 +425,7 @@
 		</assets>
 		<news>[I][COLOR FFFF9800]v10.0.4[/COLOR][/I][CR]- [CR][CR][B]All updates may contain various changes and/or improvements[/B][CR]For a more complete list visit:[CR][I][COLOR FFFF9800]https://github.com/MikeSiLVO/skin.aeon.nox.silvo/commits/master[/COLOR][/I]</news>
 	</extension>
-</addon><addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (CPM)" provider-name="jurialmunkey, jamal2362" version="66.2.12.4">
+</addon><addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (CPM)" provider-name="jurialmunkey, jamal2362" version="67.2.12.4">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinvariables" version="2.1.28" />
