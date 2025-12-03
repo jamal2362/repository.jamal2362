@@ -86,3 +86,7 @@
 	path = addons/plugin.video.composite_for_plex
 	url = https://github.com/jamal2362/plugin.video.composite_for_plex.git
 	branch = master
+[submodule "addons/resource.language.de_de"]
+	path = addons/resource.language.de_de
+	url = https://github.com/jamal2362/resource.language.de_de
+	branch = main
