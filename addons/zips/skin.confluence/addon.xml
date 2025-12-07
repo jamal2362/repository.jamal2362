@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.confluence" version="17.5.1.3" name="Confluence (CPM)" provider-name="Jezz_X, Team Kodi, jamal2362">
+<addon id="skin.confluence" version="20.5.1.3" name="Confluence (Hybrid)" provider-name="Jezz_X, Team Kodi, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
