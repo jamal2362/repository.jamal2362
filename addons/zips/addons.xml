@@ -88,7 +88,7 @@
             <icon>resources/icon.png</icon>
         </assets>
     </extension>
-</addon><addon id="plugin.video.themoviedb.helper" version="6.12.5" name="TMDb Helper" provider-name="jurialmunkey">
+</addon><addon id="plugin.video.themoviedb.helper" version="6.12.3" name="TMDb Helper" provider-name="jurialmunkey">
 <requires>
   <import addon="xbmc.python" version="3.0.1" />
   <import addon="script.module.requests" version="2.9.1" />
@@ -347,7 +347,7 @@
     <fanart>fanart.jpg</fanart>
   </assets>
 </extension>
-</addon><addon id="skin.aeon.nox.silvo" version="21.10.0.4" name="Aeon Nox: SiLVO (Hybrid)" provider-name="SiLVO, jamal2362">
+</addon><addon id="skin.aeon.nox.silvo" version="22.10.0.4" name="Aeon Nox: SiLVO (Hybrid)" provider-name="SiLVO, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.skinshortcuts" version="2.0.1" />
@@ -450,7 +450,7 @@
 		</assets>
 		<news>[I][COLOR FFFF9800]v10.0.4[/COLOR][/I][CR]- [CR][CR][B]All updates may contain various changes and/or improvements[/B][CR]For a more complete list visit:[CR][I][COLOR FFFF9800]https://github.com/MikeSiLVO/skin.aeon.nox.silvo/commits/master[/COLOR][/I]</news>
 	</extension>
-</addon><addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (Hybrid)" provider-name="jurialmunkey, jamal2362" version="77.2.12.12">
+</addon><addon id="skin.arctic.fuse.2" name="Arctic Fuse 2 (Hybrid)" provider-name="jurialmunkey, jamal2362" version="78.2.12.12">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinvariables" version="2.1.28" />
@@ -482,7 +482,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="skin.arctic.horizon.2" name="Arctic Horizon 2 (Hybrid)" provider-name="jurialmunkey, jamal2362" version="21.0.8.30">
+</addon><addon id="skin.arctic.horizon.2" name="Arctic Horizon 2 (Hybrid)" provider-name="jurialmunkey, jamal2362" version="22.0.8.30">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" version="0.4.0" />
@@ -508,7 +508,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection (Hybrid)" provider-name="jurialmunkey, pkscout, heppen, jamal2362" version="21.1.1.2">
+</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection (Hybrid)" provider-name="jurialmunkey, pkscout, heppen, jamal2362" version="22.1.1.2">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" />
@@ -560,7 +560,7 @@
             <screenshot>resources/screenshot-06.jpg</screenshot>
         </assets>
     </extension>
-</addon><addon id="skin.arctic.zephyr.mod" version="31.3.0.3" name="Arctic: Zephyr - Reloaded (Hybrid)" provider-name="jurialmunkey, beatmasterrs, jamal2362">
+</addon><addon id="skin.arctic.zephyr.mod" version="32.3.0.3" name="Arctic: Zephyr - Reloaded (Hybrid)" provider-name="jurialmunkey, beatmasterrs, jamal2362">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" version="0.4.0" />
@@ -612,7 +612,7 @@
         <description lang="en_US">Arctic: Zephyr - Reloaded is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.</description>
         <description lang="fr">Arctic: Zephyr - Reloaded est basé sur le skin original Arctic: Zephyr, créé par jurialmunkey. Arctic se focalise sur le fait d'être simple, claire et minimaliste.</description>
     </extension>
-</addon><addon id="skin.confluence" version="21.5.1.3" name="Confluence (Hybrid)" provider-name="Jezz_X, Team Kodi, jamal2362">
+</addon><addon id="skin.confluence" version="22.5.1.3" name="Confluence (Hybrid)" provider-name="Jezz_X, Team Kodi, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
@@ -760,7 +760,7 @@
 		<description lang="zh_CN">Confluence 集合了许多流行皮肤的创意，力求把这些优点融合到一个皮肤中，使得首次[CR]使用 Kodi 的用户能更容易上手。</description>
 		<description lang="zh_TW">Confluence 是從 Kodi 9.11 開始預設的面板。它結合了許多受歡迎面板的概念，且試圖包含並整合它們的優點，使第一次使用 Kodi 的使用者可以簡單地上手。</description>
 	</extension>
-</addon><addon id="skin.embuary-omega" version="21.19.0.1" name="Embuary (Hybrid)" provider-name="sualfred, jamal2362">
+</addon><addon id="skin.embuary-omega" version="22.19.0.1" name="Embuary (Hybrid)" provider-name="sualfred, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.embuary.helper" version="1.3.6" />
@@ -798,7 +798,7 @@
 			<screenshot>resources/screenshot-10.jpg</screenshot>
 		</assets>
 	</extension>
-</addon><addon id="skin.estuary.cpm" version="21.4.0.0" name="Estuary (Hybrid)" provider-name="phil65, Ichabod Fletchman, jamal2362">
+</addon><addon id="skin.estuary.cpm" version="22.4.0.0" name="Estuary (Hybrid)" provider-name="phil65, Ichabod Fletchman, jamal2362">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
@@ -983,7 +983,7 @@
 		<disclaimer lang="zh_CN">Estuary 是 Kodi 的默认皮肤，删除它可能导致故障。</disclaimer>
 		<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
 	</extension>
-</addon><addon id="skin.pm3-hd" version="21.2.7.3" name="PM3.HD (Hybrid)" provider-name="Jezz_X, TigerbotHesh, qqbenq, Collapsed-TI, jamal2362">
+</addon><addon id="skin.pm3-hd" version="22.2.7.3" name="PM3.HD (Hybrid)" provider-name="Jezz_X, TigerbotHesh, qqbenq, Collapsed-TI, jamal2362">
   <requires>
     <import addon="xbmc.gui" version="5.17.0" />
   </requires>
@@ -1027,7 +1027,7 @@
     <description lang="pt_BR">PM3.HD (Project Mayhem III High Definition)é baseado no design de antiga  skin Project Mayhem III por Chokemaniac.[CR][CR]Esta skin foi criada quando moveu-se da plataforma xbox para PC's. Pessoas estavam querendo usar o XBMC na TV de alta definição em 720p e 1080p e ele veio ao meu conhecimento que o velho padrão da skin Project Mayhem III parecia perfeita em baixa resolução no xbox, mas parecia muito blocky quando ampliadas para alta definição. Então PM3.HD foi criado para preencher a lacuna para usuários de alta definição.</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="skin.rapier" version="21.13.0.14" name="Rapier (Hybrid)" provider-name="Scarfa, Gade, jamal2362">
+</addon><addon id="skin.rapier" version="22.13.0.14" name="Rapier (Hybrid)" provider-name="Scarfa, Gade, jamal2362">
   <requires>
     <import addon="xbmc.gui" version="5.17.0" />
     <import addon="script.favourites" version="4.0.9" />
